@@ -1,9 +1,45 @@
-.heading {
+body {
+  margin: 0px;
+  background-color: black;
+  height: 100%;
+}
+h1 {
+  color: #fff;
+}
+h4 {
+  color: #f9fcff;
+  font-weight: 100;
+  font-size: 20px;
+}
+
+.container {
   margin: 50px auto;
   border: 1px solid;
   border-radius: 10px;
   padding: 20px;
+  background-color: rgb(67, 66, 98);
 }
-h1 {
-  color: blue;
+.weather {
+  color: #fff;
+  text-transform: capitalize;
+  font-size: 24px;
+}
+
+.temperature {
+  color: #fff;
+}
+
+.number {
+  font-size: 70px;
+  color: #fff;
+}
+.heading {
+  margin: 50px auto;
+  padding: 20px;
+  border: 1px solid;
+  border-radius: 20px;
+  background-color: rgb(39, 46, 74);
+}
+hr {
+  color: rgb(73, 80, 106);
 }
