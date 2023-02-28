@@ -16,13 +16,22 @@ h4 {
   margin: 50px auto;
   border: 1px solid;
   border-radius: 10px;
-  padding: 20px;
+  padding: 15px;
   background-color: rgb(67, 66, 98);
 }
+
+.outreaches {
+  margin: 20px;
+}
+
 .weather {
   color: #fff;
   text-transform: capitalize;
-  font-size: 24px;
+  font-size: 25px;
+}
+
+.weathericon {
+  width: 250px;
 }
 
 .temperature {
@@ -30,7 +39,7 @@ h4 {
 }
 
 .number {
-  font-size: 70px;
+  font-size: 90px;
   color: #fff;
 }
 .heading {
@@ -42,4 +51,14 @@ h4 {
 }
 hr {
   color: rgb(73, 80, 106);
+}
+
+.time {
+  color: #fff;
+  margin: 25px;
+}
+.degree {
+  color: #f9fcff;
+  margin: 25px;
+  margin: bottom 30px;
 }
